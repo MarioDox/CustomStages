@@ -1,0 +1,304 @@
+patternInitialTimerMin
+Default (Float): 300
+	/EndDescription
+0
+
+patternInitialTimerMax
+Default (Float): 420
+	/EndDescription
+0
+
+patternTimerMin
+Default (Float): 180
+	/EndDescription
+0
+
+patternTimerMax
+Default (Float): 300
+	/EndDescription
+0
+
+searchLightBaseSize
+Default (Float): 16
+	/EndDescription
+0
+
+searchLightAreaOffsetX
+Default (Float): 0
+	/EndDescription
+0
+
+searchLightAreaOffsetY
+Default (Float): -2.5
+	/EndDescription
+0
+
+searchLightSizeMult
+Default (Float): 1
+	/EndDescription
+0
+
+searchLightSpeed
+Default (Float): 1
+	/EndDescription
+0
+
+searchLightDetectSizeMult
+Default (Float): 1.8
+	/EndDescription
+0
+
+searchLightDetectDuration
+Default (Float): 180
+	/EndDescription
+0
+
+searchLightGracePeriod
+Default (Float): 80
+	/EndDescription
+0
+
+searchLightAttackDuration
+Default (Float): 120
+	/EndDescription
+0
+
+searchLightAttackFirerate
+Default (Float): 3
+	/EndDescription
+0
+
+searchLightAttackFireSpread
+Default (Float): 15
+	/EndDescription
+0
+
+searchLightAttackFinalFrame
+Default (Float): 15
+	/EndDescription
+0
+
+heliCameraDist1
+Default (Float): 300
+	/EndDescription
+0
+
+heliCameraDist2
+Default (Float): 220
+	/EndDescription
+0
+
+heliMinX
+Default (Float): -100
+	/EndDescription
+0
+
+heliMaxX
+Default (Float): 100
+	/EndDescription
+0
+
+heliSearchSpeed
+Default (Float): 9
+	/EndDescription
+0
+
+heliWindGFXScale
+Default (Float): 1.2
+	/EndDescription
+0
+
+heliWindGFXXPosMult
+Default (Float): 0.25
+	/EndDescription
+0
+
+heliStartSFXFrame
+Default (Float): 105
+	/EndDescription
+0
+
+heliLoopSFXFrame
+Default (Float): 480
+	/EndDescription
+0
+
+heliStartAnimEndFrame
+Default (Float): 600
+	/EndDescription
+0
+
+laserSpawnFrames
+Default (Float): 60
+	/EndDescription
+0
+
+laserRandX
+Default (Float): 25
+	/EndDescription
+0
+
+laserBaseY
+Default (Float): 5
+	/EndDescription
+0
+
+laserAddRandY
+Default (Float): 25
+	/EndDescription
+0
+
+laserDuration
+Default (Float): 300
+	/EndDescription
+0
+
+laserDisappearFrames
+Default (Float): 30
+	/EndDescription
+0
+
+laserTriggerFrames
+Default (Float): 30
+	/EndDescription
+0
+
+laserTriggerAlarmDelay
+Default (Float): 45
+	/EndDescription
+0
+
+laserHitboxOffsetX
+Default (Float): 0
+	/EndDescription
+0
+
+laserHitboxOffsetY
+Default (Float): 0
+	/EndDescription
+0
+
+laserHitboxOffsetZ
+Default (Float): 180
+	/EndDescription
+0
+
+laserHitboxSize
+Default (Float): 1
+	/EndDescription
+0
+
+bulletSize
+Default (Float): 1.5
+	/EndDescription
+0
+
+bulletPower
+Default (Float): 2
+	/EndDescription
+1
+
+bulletKBG
+Default (Integer): 0
+	/EndDescription
+1
+
+bulletBKB
+Default (Integer): 32
+	/EndDescription
+1
+
+bulletAngle
+Default (Integer): 361
+	/EndDescription
+1
+
+bulletFinalKBG
+Default (Integer): 220
+	/EndDescription
+1
+
+bulletFinalBKB
+Default (Integer): 64
+	/EndDescription
+1
+
+bulletFinalAngle
+Default (Integer): 90
+	/EndDescription
+1
+
+bulletSDIMult
+Default (Float): 0.75
+	/EndDescription
+0
+
+bulletHitboxOffsetPosX
+Default (Float): 0
+	/EndDescription
+0
+
+bulletHitboxOffsetPosY
+Default (Float): 0
+	/EndDescription
+0
+
+bulletHitboxOffsetPosZ
+Default (Float): 0
+	/EndDescription
+0
+
+bulletHitboxAboveOffsetPosX
+Default (Float): 0
+	/EndDescription
+0
+
+bulletHitboxAboveOffsetPosY
+Default (Float): 400
+	/EndDescription
+0
+
+bulletHitboxAboveOffsetPosZ
+Default (Float): 40
+	/EndDescription
+0
+
+bulletStartPosX
+Default (Float): 0
+	/EndDescription
+0
+
+bulletStartPosY
+Default (Float): 0
+	/EndDescription
+0
+
+bulletStartPosZ
+Default (Float): -15
+	/EndDescription
+0
+
+bulletAboveStartPosX
+Default (Float): 0
+	/EndDescription
+0
+
+bulletAboveStartPosY
+Default (Float): -5
+	/EndDescription
+0
+
+bulletAboveStartPosZ
+Default (Float): 30
+	/EndDescription
+0
+
+searchDetectFrames
+Default (Float): 30
+	/EndDescription
+0
+
+searchEscapeFrames
+Default (Float): 30
+	/EndDescription
+0

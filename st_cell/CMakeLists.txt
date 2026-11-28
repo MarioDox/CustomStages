@@ -1,5 +1,5 @@
 # Only used for CLion intellisense for now
-project(st_wiifit)
+project(st_cell)
 
 include_directories(${PROJECT_SOURCE_DIR}/include)
 include_directories(${PROJECT_SOURCE_DIR}/source)
@@ -22,5 +22,5 @@ file(GLOB_RECURSE all_SRCS
         "${PROJECT_SOURCE_DIR}/**.c"
 )
 
-add_executable(st_final ${all_SRCS})
-set_property(TARGET st_final PROPERTY CXX_STANDARD 98)
+add_executable(st_cell ${all_SRCS})
+set_property(TARGET st_cell PROPERTY CXX_STANDARD 98)
